@@ -17,5 +17,5 @@ Before joining Tanger, I completed my Master's in Operations Research at North C
 
 My interests include Behavioral Science, Decision Making, Economics and policy!
 
-For more details about my education and professional experience, view my CV.
+For more details about my education and professional experience, view my [CV](https://satyajitnarayanan.github.io/cv/).
 
