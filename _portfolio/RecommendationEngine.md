@@ -4,9 +4,6 @@ excerpt: "Created a recommendation engine as a part of the Python Programming co
 collection: portfolio
 ---
 
-# Recommendation-Engine
-Created a recommendation engine as a part of the Python Programming course at NC State.
-
 Links:
 * [Jupyter notebook](https://bit.ly/2ILJYcL)
 * [Github](https://github.com/SatyajitNarayanan/Recommendation-Engine)
@@ -37,4 +34,6 @@ There are broadly two types of recommender engines – Content Based and Collabo
 Hybrid prediction score
 * (1- α) x User Prediction + α x Movie Prediction
 
+A video showing its working:
 
+[![Recommendation Engine Working](http://img.youtube.com/vi/gARLtNfgFmQ/0.jpg)](https://www.youtube.com/embed/gARLtNfgFmQ)
