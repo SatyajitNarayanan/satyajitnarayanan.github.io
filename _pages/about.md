@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-======
+
 I am currently working as a Data Scientist at Tanger Outlets, based out of Greensboro, NC. 
 
 I am leading the Data Science efforts of the company by helping design smarter marketing campaigns and helping make strategic decisions using data-driven methods. It's a new and exciting journey and I hope to learn a lot from this experience.
