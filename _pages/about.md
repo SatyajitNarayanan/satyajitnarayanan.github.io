@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: 
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-About me
 ======
 I am currently working as a Data Scientist at Tanger Outlets, based out of Greensboro, NC. 
 
