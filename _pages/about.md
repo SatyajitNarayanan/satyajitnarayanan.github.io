@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,5 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+My name is Satyajit Narayanan. You can call me Satya. 
 
+I am currently working as a Data Scientist at Tanger Outlets, based out of Greensboro, NC. I am leading the Data Science efforts of the company by helping design smarter marketing campaigns and helping make strategic decisions using data-driven methods. It's a new and exciting journey and I hope to learn a lot from this experience.
+
+Before joining Tanger, I completed my Master's in Operations Research at North Carolina State University where I learnt in depth about optimization, stochastic processes and machine learning and have a Master's in Economics degree from the University of Mumbai. I worked as a Decision scientist at Mu Sigma Inc. for close to 3 years where I enabled Fortune 500 clients to solve business problems by making inferences from analysis outcomes and communicating recommendations to clients based upon these inferences.
+
+My interests include Behavioral Science, Decision Making, Economics and policy!
