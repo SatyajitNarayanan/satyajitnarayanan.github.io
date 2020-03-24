@@ -12,5 +12,5 @@ The entire code for pre-processing, implementation and post-processing of the pr
 
 For Github link, click [here](https://github.com/SatyajitNarayanan/Sentiment-Analysis-using-Machine-Learning-and-Lexicon-Based-methods).
 
+![alt text](images/Poster Sentiment Analysis by Combining Lexicon-based and Machine Learning Methods - CSC 522.jpg "Logo Title Text 1")
 
-<img src="images/Poster%20Sentiment%20Analysis%20by%20Combining%20Lexicon-based%20and%20Machine%20Learning%20Methods%20-%20CSC%20522.jpg" alt="Poster Image">
