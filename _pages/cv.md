@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Bachelor of Technology (BTech.) in Civil Engineering, Veermata Jijabai Technological Institute, Mumbai, India, 2014
+* Master of Arts (M.A.) in Economics, University of Mumbai, Mumbai, India, 2017
+* Master of Operations Research (MOR), North Carolina State University, Raleigh, USA, 2019
 
 Work experience
 ======
