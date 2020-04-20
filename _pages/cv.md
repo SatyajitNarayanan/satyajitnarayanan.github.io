@@ -17,10 +17,17 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+**Tanger Outlets, Greensboro, NC, USA
+Data Scientist, January 2019 – Present**
+Leading the Data Science & Analytics efforts of the organization by working closely with the top management to identify opportunities and helping design smarter marketing campaigns.
+  * Direct Mail Campaign: 
+      Developed a ranking model that identifies high-value customers more likely to redeem promotional coupon based on various behavioral variables using XGBoost, leading to a 30% increase in coupon redemptions YoY.
+  * Performance measurement dashboard: 
+      Developed an analytics web tool used by marketing, operations and the management across all 40 outlet centers, to monitor all the facets of their center’s performance.
+  * Experimental Digital Marketing: 
+      Designing experiments (phrasing, value of promo, etc.) for digital marketing campaigns and analyzing their performance.
+  * Receipts OCR: 
+      Working with partners to extract itemized information from customer receipt images to enrich customer data.
 
 * Fall 2015: Research Assistant
   * Github University
