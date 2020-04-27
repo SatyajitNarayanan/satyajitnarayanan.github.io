@@ -12,4 +12,6 @@ redirect_from:
 
 
 
-![alt text](images/Resume.jpg "Logo Title Text 1")
+![Resume](https://github.com/SatyajitNarayanan/satyajitnarayanan.github.io/tree/master/images/Resume.jpg "Logo Title Text 1")
+
+[![Resume](images/Resume.jpg)](files/Resume%20-%20p.pdf)
