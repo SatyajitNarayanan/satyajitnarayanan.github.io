@@ -12,3 +12,6 @@ redirect_from:
 
 <a href="https://github.com/SatyajitNarayanan/satyajitnarayanan.github.io/blob/master/files/Resume%20-%20p.pdf" class="image fit"><img src="images/404-southpark.jpg" alt=""></a>	
 
+<a href="https://github.com/SatyajitNarayanan/satyajitnarayanan.github.io/blob/master/files/Resume%20-%20p.pdf" target="_blank">PDF.</a>
+
+<embed src="https://github.com/SatyajitNarayanan/satyajitnarayanan.github.io/blob/master/files/Resume%20-%20p.pdf" type="application/pdf" />
