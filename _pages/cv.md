@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-<embed src="https://satyajitnarayanan.github.io/blob/master/files/Resume%20-%20p.pdf" type="application/pdf" />
+<embed src="https://satyajitnarayanan.github.io/files/Resume%20-%20p.pdf" type="application/pdf" />
 
 
 
