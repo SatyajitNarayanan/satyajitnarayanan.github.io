@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-Check out my resume [here](https://nbviewer.jupyter.org/github/SatyajitNarayanan/satyajitnarayanan.github.io/blob/master/files/Resume%20-%20p.pdf)
+
 
 
 <object data="https://nbviewer.jupyter.org/github/SatyajitNarayanan/satyajitnarayanan.github.io/blob/master/files/Resume%20-%20p.pdf" type="application/pdf" width="700px" height="700px">
@@ -22,5 +22,3 @@ Check out my resume [here](https://nbviewer.jupyter.org/github/SatyajitNarayanan
 
 
 
-<object data="https://nbviewer.jupyter.org/github/SatyajitNarayanan/satyajitnarayanan.github.io/blob/master/files/Resume%20-%20p.pdf" type="application/pdf" width="100%"> 
-</object>
