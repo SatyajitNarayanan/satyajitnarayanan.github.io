@@ -13,7 +13,7 @@ author_profile: true
 data-rss="https://medium.com/feed/@sattyagaya"
 data-maxcols="3" 
 data-layout="grid" 
-data-poststyle="inline" 
+data-poststyle="modal" 
 data-readmore="Continue reading" 
 data-buttonclass="btn btn-secondary" 
 data-offset="-100"></div>
