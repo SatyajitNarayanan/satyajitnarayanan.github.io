@@ -12,7 +12,7 @@ author_profile: true
 <div id="retainable-rss-embed" 
 data-rss="https://medium.com/feed/@sattyagaya"
 data-maxcols="3" 
-data-layout="grid" 
+data-layout="slider" 
 data-poststyle="modal" 
 data-readmore="Continue reading" 
 data-buttonclass="btn btn-secondary" 
