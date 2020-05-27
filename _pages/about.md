@@ -9,13 +9,13 @@ redirect_from:
 ---
 
 
-I am currently working as a Data Scientist at Tanger Outlets, based out of Greensboro, NC. I am leading the Data Science efforts of the company by helping design smarter marketing campaigns and helping make strategic decisions using data-driven methods.
+I am currently working as a Data Scientist at Tanger Outlets, Greensboro,NC.
 
-Before joining Tanger, I completed my Master's in Operations Research at North Carolina State University where I learnt in depth about optimization, stochastic processes and machine learning and have a Master's in Economics degree from the University of Mumbai. 
+Before joining Tanger, I completed my Master’s in Operations Research at North Carolina State University learning in depth about optimization, stochastic processes and machine learning. I have a Bachelor’s degree in Civil Engineering and a Master’s in Economics – both from the University of Mumbai, India.
 
-I have worked as a Decision scientist at Mu Sigma Inc. for close to 3 years where I enabled Fortune 500 clients to solve business problems by making inferences from analysis outcomes and communicating recommendations to clients based upon these inferences.
+I also worked as a Decision scientist at Mu Sigma Inc. for three years, enabling many of their Fortune 500 clients to solve business problems using data analytics & ML.
 
-My interests include Behavioral Science, Decision Making, Economics and policy!
+My interests include Behavioral Science, Decision Making, Economics and policy.
 
 For more details about my education and professional experience, view my [Resume](https://satyajitnarayanan.github.io/Resume/).
 
