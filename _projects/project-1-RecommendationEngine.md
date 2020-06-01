@@ -1,6 +1,6 @@
 ---
-title: "Recommendation Engine"
-excerpt: "A system to recommend movies based on past user behavior & other users <br/><img src='/images/Recomm.jpg'>"
+title: "Recommendation Engine: A system to recommend movies"
+excerpt: "A collaborative filtering model to recommend movies based on past user behavior & other users <br/><img src='/images/Recomm.jpg'>"
 date: 2018-12-03
 collection: projects
 ---
