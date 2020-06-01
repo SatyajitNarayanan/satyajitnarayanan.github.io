@@ -1,6 +1,6 @@
 ---
 title: "Sentiment Analysis"
-excerpt: "Analyzing twitter sentiments by combining lexicon based and machine learning approaches <br/><img src='/images/Sentiment-Analysis.png'>"
+excerpt: "Analyzing twitter sentiments by combining lexicon based and machine learning approaches <br/><img src='/images/Sentiment-Analysis.jpg'>"
 date: 2018-05-03
 collection: projects
 ---
