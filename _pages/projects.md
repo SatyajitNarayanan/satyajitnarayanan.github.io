@@ -8,6 +8,6 @@ classes: wide
 image: "/images/coverpicture.jpeg"
 ---
 
-{% for post in site.projects reversed %}
+{% for post in site.projects limit:4 reversed %}
   {% include archive-single.html type="grid"  %}
 {% endfor %}
