@@ -5,6 +5,7 @@ date: 2018-12-08
 collection: projects
 ---
 
+# Lenovo -  Predicting Customer Sentiment
 
 Through this project an attempt has been made to help Lenovo predict the customer satisfaction for their products with the help of customer sentiment data. Net Promoter Score (NPS) is a key indicator of a product or company’s performance in the market.
 
@@ -80,4 +81,11 @@ After deciding the dependent and independent variables, the level of data to be 
 
 <img src="https://github.com/SatyajitNarayanan/Lenovo_Predicting_Customer_Sentiment/raw/master/images/Results.JPG" alt="Poster Image">
 
-* [Github](https://github.com/SatyajitNarayanan/Lenovo_Predicting_Customer_Sentiment)
+
+
+
+<embed src="https://github.com/SatyajitNarayanan/Lenovo_Predicting_Customer_Sentiment/blob/master/documents/560%20Project%20Presentation%20v2.pdf" type="application/pdf" />
+
+
+
+* [Github link to the project](https://github.com/SatyajitNarayanan/Lenovo_Predicting_Customer_Sentiment)
