@@ -83,8 +83,11 @@ After deciding the dependent and independent variables, the level of data to be 
 
 
 
+<embed src="https://satyajitnarayanan.github.io/files/project_Lenovo_presentation.pdf" type="application/pdf" />
 
+<embed src="https://nbviewer.jupyter.org/github/SatyajitNarayanan/Lenovo_Predicting_Customer_Sentiment/blob/master/documents/560%20Project%20Presentation%20v2.pdf" type="application/pdf" />
 
+<embed src="https://github/SatyajitNarayanan/Lenovo_Predicting_Customer_Sentiment/blob/master/documents/560%20Project%20Presentation%20v2.pdf" type="application/pdf" />
 
 
 
