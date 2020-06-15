@@ -83,10 +83,17 @@ Summary of final results:
 
 <img src="https://github.com/SatyajitNarayanan/Lenovo_Predicting_Customer_Sentiment/raw/master/images/Results.JPG" alt="Poster Image">
 
-
+ 
+ 
+  
+  
 **Project presentation:**
 <embed src="https://nbviewer.jupyter.org/github/SatyajitNarayanan/Lenovo_Predicting_Customer_Sentiment/blob/master/documents/560%20Project%20Presentation%20v2.pdf" type="application/pdf" />
-
+  
+  
+  
+   
+    
 **Project report:**
 <embed src="https://nbviewer.jupyter.org/github/SatyajitNarayanan/Lenovo_Predicting_Customer_Sentiment/blob/master/documents/Group%203%20Report.pdf" type="application/pdf" />
 
